@@ -3,8 +3,8 @@
 
 Geospatial discovery layer for VecNET Digital Library.
 
-![](https://github.com/vecnet/dl-discovery/blob/qa-deploy/screenshots/homepage.png)
 ![](https://github.com/vecnet/dl-discovery/blob/qa-deploy/screenshots/homepage-map.png)
+![](https://github.com/vecnet/dl-discovery/blob/qa-deploy/screenshots/homepage.png)
 
 Built using:
 
